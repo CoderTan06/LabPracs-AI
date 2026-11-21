@@ -69,4 +69,8 @@ while True:
         print("Exiting...")
         break
     else:
+<<<<<<< HEAD
         print("Invalid choice.")
+=======
+        print("Invalid choice.")
+>>>>>>> 03cfc1414d5f5fcc38d211fe280698ec69765896

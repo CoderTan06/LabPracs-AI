@@ -27,4 +27,8 @@ for i in range(1, n + 1):
 
     print("Customer Name :", name)
     print("Units :", units)
+<<<<<<< HEAD
     print("Bill Amount : Rs.", round(bill, 2))
+=======
+    print("Bill Amount : Rs.", round(bill, 2))
+>>>>>>> 03cfc1414d5f5fcc38d211fe280698ec69765896

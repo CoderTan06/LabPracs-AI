@@ -35,4 +35,8 @@ print("Student Name :", name)
 print("Total Marks :", total)
 print("Percentage :", round(percentage, 2), "%")
 print("Grade :", grade)
+<<<<<<< HEAD
 print("Performance :", performance)
+=======
+print("Performance :", performance)
+>>>>>>> 03cfc1414d5f5fcc38d211fe280698ec69765896

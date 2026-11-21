@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Student Record Management with List, Tuple, Dictionary and CSV
+=======
+#Student Record Management with List, Tuple, Dictionary and CSV
+>>>>>>> 03cfc1414d5f5fcc38d211fe280698ec69765896
 
 import csv
 
@@ -38,4 +42,8 @@ with open("students.csv", "r") as file:
             row["Name"],
             row["Department"],
             row["Mark"]
+<<<<<<< HEAD
         )
+=======
+        )
+>>>>>>> 03cfc1414d5f5fcc38d211fe280698ec69765896
